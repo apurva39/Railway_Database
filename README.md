@@ -2,7 +2,11 @@
 
 created a railway database using MySQL.
 
-USER TABLE--![user](https://user-images.githubusercontent.com/88641285/198898157-344a0b75-8df9-4c0f-bef5-a8e225de1362.png)
+
+
+USER TABLE--
+
+![user](https://user-images.githubusercontent.com/88641285/198898157-344a0b75-8df9-4c0f-bef5-a8e225de1362.png)
 
 PASSANGER TABLE--
 ![passanger](https://user-images.githubusercontent.com/88641285/198898325-ec0e7de6-777b-4f2e-ba78-1d7534396f51.png)
